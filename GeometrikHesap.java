@@ -1,13 +1,18 @@
+/*
+ * Ad Soyad: [HASAN KARA]
+ * Ogrenci No: [250541015]
+ * Tarih: [04.11.2025]
+ * Aciklama: Gorev 2 - Geometrik hesap
+ *
+ * Bu program kullanicidan geometrik hesaplama için bilgi alir ve
+ * duzenli bir formatta ekrana yazdirir.
+ */
+
 import java.util.Scanner;
 
 public class GeometrikHesap {
     public static void main(String[] args){
-        /*
-         * Ad Soyad: [HASAN KARA]
-         * Ogrenci No: [250541015]
-         * Tarih: [04.11.2025]
-         * Aciklama: [GOREV 2]
-         */
+       
 
         /*Daire yarıcapı=5.0
           Darie alan=pi*r^2

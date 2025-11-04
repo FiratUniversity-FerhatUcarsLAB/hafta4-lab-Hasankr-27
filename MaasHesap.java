@@ -1,14 +1,24 @@
+/*
+ * Ad Soyad: [HASAN KARA]
+ * Ogrenci No: [250541015]
+ * Tarih: [04.11.2025]
+ * Aciklama: Gorev 2 - Maas Hesaplama 
+ *
+ * Bu program kullanicidan maas bilgilerini alir ve
+ * duzenli bir formatta ekrana yazdirir.
+ */
+
+
+
+
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class MaasHesap {
     public static void main(String[] args) {
-        /*
-         * Ad Soyad: [HASAN KARA]
-         * Ogrenci No: [250541015]
-         * Tarih: [04.11.2025]
-         * Aciklama: [GOREV 3]
-         */
+       
+         
 
 
         Scanner input = new Scanner(System.in);

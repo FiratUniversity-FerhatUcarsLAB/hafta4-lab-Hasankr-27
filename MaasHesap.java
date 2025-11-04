@@ -2,8 +2,7 @@
  * Ad Soyad: [HASAN KARA]
  * Ogrenci No: [250541015]
  * Tarih: [04.11.2025]
- * Aciklama: Gorev 2 - Maas Hesaplama 
- *
+ * Aciklama: Gorev 3 - Maas Hesaplama 
  * Bu program kullanicidan maas bilgilerini alir ve
  * duzenli bir formatta ekrana yazdirir.
  */

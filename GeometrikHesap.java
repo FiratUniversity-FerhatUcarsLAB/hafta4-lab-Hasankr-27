@@ -3,7 +3,6 @@
  * Ogrenci No: [250541015]
  * Tarih: [04.11.2025]
  * Aciklama: Gorev 2 - Geometrik hesap
- *
  * Bu program kullanicidan geometrik hesaplama için bilgi alir ve
  * duzenli bir formatta ekrana yazdirir.
  */
